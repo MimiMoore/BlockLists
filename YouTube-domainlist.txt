@@ -1,2 +1,5 @@
-r1---sn-4g57kn7d.googlevideo.com
-r4---sn-9gv7lnez.googlevideo.com
+r1.sn-4g57kn7d.googlevideo.com
+r3.sn-aigl6ner.googlevideo.com
+r4.sn-2gb7sn7r.googlevideo.com
+r4.sn-9gv7lnez.googlevideo.com
+r5.sn-vgqskn76.googlevideo.com
